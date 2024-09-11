@@ -9,6 +9,8 @@ console.log(dividebtfive)
 const firstnumgreaterthanlast= n1>n4;
 console.log(firstnumgreaterthanlast)
 
+const
+
 
 
 
